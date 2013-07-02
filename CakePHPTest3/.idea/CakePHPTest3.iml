@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="google-appengine-php" name="Google App Engine (Python)">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$" />
+        <option name="sdkFolder" value="$USER_HOME$/appengine_php_1_8_0" />
+        <option name="pythonPath" value="/usr/bin/python" />
+        <option name="email" value="ducati.nero@gmail.com" />
+        <option name="gp" value="dfdcdfc4dfccdfc9dfd8dfc0dfdadfd2dfcbdfcfdfdcdfdcdfc0dfc6dfd8dfcc" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$USER_HOME$/appengine_php_1_8_0/php/sdk" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/appengine_php_1_8_0/php/sdk" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
